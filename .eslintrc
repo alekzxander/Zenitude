@@ -1,0 +1,13 @@
+{
+    "env": {
+      "browser": true,
+      "node": true,
+      "jasmine": true
+    },
+    "extends": "airbnb",
+    "rules": {
+      "no-warning-comments": [1, { "terms": ["TODO", "fixme", "xxx"], "location": "start" }],
+      "no-underscore-dangle" : ["error", { "allow": ["_id"]}]
+    }
+  }
+  

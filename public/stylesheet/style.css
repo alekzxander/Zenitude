@@ -1,0 +1,10 @@
+
+/* /////// HEADER ALL PAGE /////// */
+.head-soin {
+    height: 300px;
+    background: linear-gradient(rgba(46, 141, 124, 0.75),rgba(46, 141, 124, 0.75)),url('/images/green-1839861.jpg') no-repeat center;
+    background-size: cover;
+}
+.bg-light {
+    background: transparent!important;
+}
